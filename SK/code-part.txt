@@ -1,0 +1,78 @@
+1.Write a program to remove duplicates from an array ?  -- Array - Done
+2. Write even numbers in array -- Array - - Done
+3. How to check whether a string is palindrome or not ? -- String - Done
+4. Find the factorial of given number ? - Done
+5. Program to find longest word in a given sentence -- string - - Done
+6. Write a JavaScript program to find the maximum number in an array - Array - Done
+7. Write a JavaScript function to check if a given number is prime.- Done
+8. Program to find Reverse of a string without using built-in method ? - String  - Done
+9. Find the smallest word in a given sentence ? - String - Done 
+10. Write a function sumOfThirds(arr), which takes an array arr as an argument. This function should return a sum of
+every third number in the array, starting from the first one.
+(1+4+7) = 12
+
+==
+11. Write a JavaScript function that returns the Fibonacci
+sequence up to a given number of terms. ---Done 
+
+12. Find the max count of consecutive 1’s in an array  --------- PENDING 
+findConsecutive([1, 1, 9, 1, 9, 19, 7, 1, 1, 1, 2, 5, 1]);
+// output: 3
+
+
+13. Given 2 arrays that are sorted [0,3,4,31] and [4,6,30].
+Merge them and sort [0,3,4,4,6,30,31] ?  ------------------------ Done
+
+14. Create a function which will accepts two arrays arr1 and
+arr2. The function should return true if every value in arr1 has
+its corresponding value squared in array2. The frequency of
+values must be same.(Effecient) -- PENDING
+Inputs and outputs:
+=============
+[1,2,3],[4,1,9] ==> true
+[1,2,3],[1,9] ====> false
+[1,2,1],[4,4,1] ===> false (must be same frequency)
+
+
+15
+16
+17
+
+18. Given a string, write a javascript function to count the
+occurrences of each character in the string. --------------------- Done
+helaalo - // Output: { h: 1, e: 1, l: 2, o: 1 }
+
+
+19. Write a javascript function that sorts an array of numbers
+in ascending order  
+
+20. Write a javascript function that sorts an array of numbers
+in descending order --- Array - Done
+
+21. Write a javascript function that reverses the order of words
+in a sentence without using the built-in reverse() method. -------- String - Done
+
+22. Implement a javascript function that flattens a nested array
+into a single-dimensional array.
+
+
+23
+
+24. Given an array, return an array where the each value is the
+product of the next two items: E.g. [3, 4, 5] -> [20, 15,12] 
+
+25. Find the 2nd largest element from a given array ? [1,6,3,4] - Array - Done
+
+26 
+
+27. Write a javascript program to get below output from given input ? - Done
+I/P: abbcccddddeea
+O/P: 1a2b3c4d2e1a
+
+=========================================== ** ==============================
+1. What is the output of 3+2+”7” ? = 57
+2. const a = 1<2<3;
+   const b = 1>2>3;
+    console.log(a,b) //true,false
+
+
